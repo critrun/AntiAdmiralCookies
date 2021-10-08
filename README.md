@@ -1,6 +1,9 @@
 # AntiAdmiralCookies
 Quickly disable cookies "powered by Admiral"
+
 Disclaimer: Only tested on Linux Mint.
+
+![Showing it off](https://cdn.discordapp.com/attachments/735916878215512146/896168104076406794/EwAdMoney.gif)
 
 ## How to install
 
